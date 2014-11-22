@@ -1,8 +1,6 @@
 簡單說明
 ==========================
 
-Templates for emlog
-
 去年模仿的作品，源出自Wordpress的Koobox模板。
 
 毕竟是第一次写，有很多BUG。请谅解。
